@@ -2,4 +2,5 @@ print(34)
 print(89)
 print(8)
 print("Risheek")
-
+print(78)
+print(56)
